@@ -3,8 +3,8 @@
 This is a microservices-based application designed for managing e-commerce deliveries. The system includes independent services for products, orders, deliveries, and authentication, all of which communicate via REST APIs. The goal is to streamline and optimize the e-commerce delivery process, ensuring smooth product management, order handling, and delivery tracking.
 
 ## Services
-- **Product Service**: Manages product information and stock.
-- **Order Service**: Processes orders, calculates totals, updates stock, and tracks order status.
+- **Products Service**: Manages product information and stock.
+- **Orders Service**: Processes orders, calculates totals, updates stock, and tracks order status.
 - **Delivery Service**: Assigns deliveries and updates delivery (and order) statuses.
 - **Authentication Service**: Handles user registration and login using JWT for secure access.
 
