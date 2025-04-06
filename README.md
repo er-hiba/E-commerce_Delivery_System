@@ -63,3 +63,9 @@ This is a microservices-based application designed for managing e-commerce deliv
     ```bash
      npm start
     ```
+    
+## Technologies Used
+♡ &nbsp;  ***Node.js*** : Backend runtime for executing JavaScript.  
+♡ &nbsp;  ***Express*** : Web framework for building APIs.  
+♡ &nbsp;  ***MongoDB*** : NoSQL database for storing data.  
+♡ &nbsp;  ***JWT*** : For secure user authentication.  
